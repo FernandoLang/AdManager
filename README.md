@@ -5,6 +5,7 @@
 ## Sobre o Projeto:
 ### -> Foi desenvolvido na linguagem C# usando windows forms
 ### -> Foi usado o Entity Framework para manipulação e criação do banco de dados 
+### -> Como banco de dados foi usado o sql server 
 
 ## Requisitos:
 ### Visual Studio Community 2019
