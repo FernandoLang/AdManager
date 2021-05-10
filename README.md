@@ -1,6 +1,6 @@
 # AdManager
 
-#Esse projeto é uma forma simples de cadastro e calculo de alcance de anúncios com base no valor investido por dia por um tempo determinado.
+# Esse projeto é uma forma simples de cadastro e calculo de alcance de anúncios com base no valor investido por dia por um tempo determinado.
 ##
 ## Sobre o Projeto:
 ### -> Foi desenvolvido na linguagem C# usando windows forms
@@ -44,9 +44,8 @@ OBS: Caso dê algum problema, dentro do projeto aberto no visual studio, localiz
 
 ### Após executar o projeto uma tela irá aparecer, nela você devera preencher com os dados necessários e uma tela de confirmação aparecerá quando salvar
 
-![alt text](https://github.com/FernandoLang/AdManager/blob/main/Images/run.PNG)
 ![alt text](https://github.com/FernandoLang/AdManager/blob/main/Images/save1.PNG)
-Obs: Caso os dados forem preenchidos de forma errada, uma mensagem irá aparecer informando os erros
+### Obs: Caso os dados forem preenchidos de forma errada, uma mensagem irá aparecer informando os erros
 
 
 ## Anúncios
