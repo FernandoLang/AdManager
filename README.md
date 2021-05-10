@@ -59,7 +59,7 @@ OBS: Caso dê algum problema, dentro do projeto aberto no visual studio, localiz
 ![alt text](https://github.com/FernandoLang/AdManager/blob/main/Images/imagem_2021-05-10_191339.png)
 
 ### Acima tera uma ComboBox que podera ser usada para selecionar todos os anúncios de cada usuário, poderá ser usado junto o intervalo de tempo entre uma data e outra, ou seja,
-irá exibir os anúncios do cliente e dentro da data estipulada pelo usuário caso seja especificada.
+### irá exibir os anúncios do cliente e que estejam DENTRO da data estipulada pelo usuário caso seja especificada.
 
 ![alt text](https://github.com/FernandoLang/AdManager/blob/main/Images/save3.PNG)
 ![alt text](https://github.com/FernandoLang/AdManager/blob/main/Images/save4.PNG)
