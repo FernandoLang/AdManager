@@ -4,7 +4,7 @@
 ##
 ## Sobre o Projeto:
 ### -> Foi desenvolvido na linguagem C# usando windows forms
-### -> Foi usado o Entity Framework para manipulação e criação do banco de dados (a escolha do entity framework é para que assim que o projeto ou o executável seja aberto pela ###primeira vez na máquina, o programa já cria o banco de dados e as tabelas automaticamente)
+### -> Foi usado o Entity Framework para manipulação e criação do banco de dados 
 
 ## Requisitos:
 ### Visual Studio Community 2019
