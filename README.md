@@ -24,10 +24,10 @@
 
 ![alt text](https://github.com/FernandoLang/AdManager/blob/main/Images/imagem_2021-05-10_190606.png)
 
+OBS: No projeto já vai ter uma migration pronta então bastará apenas executar a ultima etapa 'update-database' sem as aspas, mas caso seja necessário criar uma nova base seguir os passos
 ### Um console irá aparecer na parte inferior da IDE. Digite os seguintes comandos em sequencia
 #### enable-migrations
 #### add-migration nome-da-migration  
-OBS: No projeto já vai ter uma migration pronta
 #### update-database
 
 OBS: Caso dê algum problema, dentro do projeto aberto no visual studio, localize a pasta 'migrations' e exclua a que contem o nome 'first_migration'
